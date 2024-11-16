@@ -1,0 +1,83 @@
+{
+    "breakfast": [
+      {
+        "id": 1,
+        "name": "English Breakfast",
+        "description": "smoked bacon, sausage, tomato, mushrooms, black pudding, baked beans, eggs",
+        "price": "Ksh 2300"
+      },
+      {
+        "id": 2,
+        "name": "Avocado Toast",
+        "description": "poached egg, avocado, onion, tomatoes, bread",
+        "price": "ksh 800"
+      },
+      {
+        "id": 3,
+        "name": "Burrito",
+        "description": "tortilla, egg, cheese, potatoes, pork meat",
+        "price": "ksh 1500"
+      }
+    ],
+    "lunch": [
+      {
+        "id": 1,
+        "name": "Caesar Salad",
+        "description": "chicken breast, romaine lettuce, croutons, parmesan",
+        "price": "ksh 1800"
+      },
+      {
+        "id": 2,
+        "name": "Spaghetti Carbonara",
+        "description": "spaghetti, pancetta, garlic, eggs, parmesan, pepper",
+        "price": "ksh 1450"
+      },
+      {
+        "id": 3,
+        "name": "Pizza",
+        "description": "chorizo, italian salami, tomatoes, mushrooms, olives",
+        "price": "ksh 1600"
+      }
+    ],
+    "dinner": [
+      {
+        "id": 1,
+        "name": "Spicy Beef",
+        "description": "spicy beef, potatoes, carrots, cheese sauce, spices",
+        "price": "ksh 1600"
+      },
+      {
+        "id": 2,
+        "name": "Spaghetti Bolognese",
+        "description": "onion, carrot, celery, minced meat, spaghetti, parmesan",
+        "price": "ksh 1500"
+      },
+      {
+        "id": 3,
+        "name": "Chickpea Curry",
+        "description": "onion, chickpea, garlic, mushrooms, tomatoes, spices",
+        "price": "Ksh 3000"
+      }
+    ],
+    "dessert": [
+      {
+        "id": 1,
+        "name": "Lemon Cake",
+        "description": "flour, sugar, baking powder, lemon",
+        "price": "Ksh 900"
+      },
+      {
+        "id": 2,
+        "name": "Cinnamon Rolls",
+        "description": "flour, salt, sugar, cinnamon, yeast, sour cream, milk",
+        "price": "ksh 1200"
+      },
+      {
+        "id": 3,
+        "name": "Vegan Pancakes",
+        "description": "flour, sugar, baking powder, soya milk, blueberries",
+        "price": "ksh 800"
+      }
+    ]
+  }
+  
